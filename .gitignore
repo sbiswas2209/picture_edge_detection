@@ -1,0 +1,11 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+# include
+# android/src/main/jniLibs
+# ios/opencv2.framework
