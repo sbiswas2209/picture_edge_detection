@@ -5,7 +5,3 @@
 .pub/
 
 build/
-
-# include
-# android/src/main/jniLibs
-# ios/opencv2.framework
